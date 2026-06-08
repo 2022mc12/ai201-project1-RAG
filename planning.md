@@ -21,11 +21,16 @@ I will be focusing on resources and advice for commuter students at NYU. This kn
 
 | # | Source | Description | URL or location |
 |---|--------|-------------|-----------------|
-| 1-15 | Reddit | Top 15 Reddit posts when I search "Resources and advice for commuter students" in the r/nyu subreddit. | [Reddit results link](https://www.reddit.com/r/nyu/search/?q=Resources+and+advice+for+commuter+students+&cId=d94a4d0f-e50c-47e3-92a9-1f2b6bd50214&iId=cb863939-7957-4351-b192-b3ffd1665d74)|
-| 16-25 | School Newspaper | Top 10 School Newspaper articles when I search "Commuter student" in the search bar| [Article results link](https://nyunews.com/?s=commuter+student)|
-| 26-28 | Student Blogs| Top 3 search results (I extracted 3 from the search results page instead of deciding on a random number here)| [Search Results Link](https://meet.nyu.edu/?s=commuter)|
-| 29 | University Page| NYU Neighborhood Resource Page| [NYU Neighborhood Resource Page](https://www.nyu.edu/students/student-information-and-resources/neighborhood-resources.html?challenge=d06e90d7-4d8f-4b88-9d8c-10b73beb60f1)|
-| 30 | University Page | NYU Commuter Resource Page | [NYU Commuter Resource Page](https://www.nyu.edu/students/communities-and-groups/commuters-off-campus-students/involvement.html?challenge=d06e90d7-4d8f-4b88-9d8c-10b73beb60f1)|
+| 1 | Reddit | Incoming Freshman Commuter Post | [Reddit link](https://www.reddit.com/r/nyu/comments/wvd2mv/incoming_freshman_commuter_how_do_you_throw/)|
+| 2 | Reddit | Commuter Experience | [Reddit link](https://www.reddit.com/r/nyu/comments/19cjab1/commuters_how_is_your_college_experience/)|
+| 3 | Reddit |Commuter Dining Plan Post | [Reddit link](https://www.reddit.com/r/nyu/comments/1g4djm0/nyu_no_one_wants_your_rip_off_commuter_plan/)|
+| 4 | Reddit | Commuter Financial Aid Post | [Reddit link](https://www.reddit.com/r/nyu/comments/kibfsz/commuter_financial_aid/)|
+| 5 | Reddit | Commuter Advice Post | [Reddit link](https://www.reddit.com/r/nyu/comments/oq36pn/commuter_kids_what_do_you_not_leave_the_house/)|
+| 6 | School Newspaper | Commuting Effects on College Experience: Socially, Professionally, and Mentally| [Article link](https://nyunews.com/uta/features/2020/04/06/being-a-commuter-at-nyu/)|
+| 7 | School Newspaper | Off Campus Housing| [Article link](https://nyunews.com/underthearch/housing/2025/3/11/neighborhood-guide/)|
+| 8 | Student Blog| Transportation Experience| [Meet NYU Blog](https://meet.nyu.edu/advice/life-on-the-move-navigating-nyc-as-an-nyu-commuter-student/)|
+| 9 | University Page| NYU Neighborhood Resource Page| [NYU Neighborhood Resource Page](https://www.nyu.edu/students/student-information-and-resources/neighborhood-resources.html?challenge=d06e90d7-4d8f-4b88-9d8c-10b73beb60f1)|
+| 10 | University Page | NYU Commuter Resource Page | [NYU Commuter Resource Page](https://www.nyu.edu/students/communities-and-groups/commuters-off-campus-students/involvement.html?challenge=d06e90d7-4d8f-4b88-9d8c-10b73beb60f1)|
 
 ---
 
