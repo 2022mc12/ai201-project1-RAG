@@ -65,6 +65,7 @@ I will use top 3 retrieved chunks in order to provide the LLM with relevant data
 
 **Production tradeoff reflection:**
 If I were deploying this system for real users, I would prioritize retrieval quality over computational efficiency and use a larger, higher-performing embedding model instead of all-MiniLM-L6-v2. 
+
 ---
 
 ## Evaluation Plan
