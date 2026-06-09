@@ -16,7 +16,7 @@ def split_paragraph(paragraph):
     # short paragraph: fits in one chunk, no overlap needed
     if len(paragraph) <= MAX_CHARS and len(paragraph) >= MIN_CHARS:
         return [paragraph]
-    else:
+    elif len(paragraph) < MIN_CHARS:
         return []
 
     # long paragraph: find the smallest number of even chunks so each is < MAX_CHARS.

@@ -63,6 +63,7 @@ Overlap: I will keep a overlap of 100 characters (this is roughly one sentence) 
 
 **Final chunk count:**
 233
+
 ---
 
 ## Embedding Model
