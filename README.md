@@ -15,6 +15,7 @@
      course descriptions don't reflect teaching style, exam difficulty, or workload." -->
 
 I will be focusing on resources and advice for commuter students at NYU. This knowledge is valuable and difficult to find because there are very few official resources available. Relevant information is scattered across different forums, discussion threads, and websites, making it time-consuming for students to locate the answers they need. This RAG system will consolidate these resources into a single searchable knowledge base, allowing students to quickly find relevant information without manually searching through numerous webpages and online discussions.
+
 ---
 
 ## Document Sources
@@ -50,13 +51,18 @@ I will be focusing on resources and advice for commuter students at NYU. This kn
      - What your final chunk count was across all documents -->
 
 **Chunk size:**
+500 characters
 
 **Overlap:**
+100 characters
 
 **Why these choices fit your documents:**
+Chunk size: I will split the document by paragraph first, since most of the reddit posts are few sentences and the newspaper/blogs have short paragraphs. I will then split this further by checking the size of each paragraph: if the paragraph exceeds 500 characters (I estimated this threshold), I will split it into n even chunks so each chunk is less than 500 characters.
+
+Overlap: I will keep a overlap of 100 characters (this is roughly one sentence) in order to preserve the context of the chunks. Note that I will only do this if I am splitting a paragraph: if the entire paragraph fits in one chunk, no overlap is needed.
 
 **Final chunk count:**
-
+233
 ---
 
 ## Embedding Model

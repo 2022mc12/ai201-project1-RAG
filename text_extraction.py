@@ -28,6 +28,7 @@ class TextOnly(HTMLParser):
 
 
 file_titles = ["Commuting Effects on College Experience", "Off Campus Housing", "Transportation Experience", "NYU Neighborhood Resource Page", "NYU Commuter Resource Page"]
+file_sources = ["School Newspaper", "School Newspaper", "Student Blog", "University Page", "University Page"]
 for i in range(6,11):
     # Read the HTML file
     with open(f"intermediate_data/doc{i}.html", "r", encoding="utf-8") as f:
@@ -46,5 +47,5 @@ for i in range(6,11):
     text = "\n\n".join(filtered)
 
     # # Write to a text file
-    with open(f"documents/{file_titles[i-6]}.txt", "w", encoding="utf-8") as f:
+    with open(f"documents/{file_sources[i-6]}_{file_titles[i-6]}.txt", "w", encoding="utf-8") as f:
         f.write(text)

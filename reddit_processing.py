@@ -58,5 +58,5 @@ for i in range(1,6):
     # Join into one document
     document = "\n\n".join(all_text)
 
-    with open(f"documents/{reddit_descriptions[i-1]}.txt", "w", encoding="utf-8") as f:
+    with open(f"documents/Reddit_{reddit_descriptions[i-1]}.txt", "w", encoding="utf-8") as f:
         f.write(document)
