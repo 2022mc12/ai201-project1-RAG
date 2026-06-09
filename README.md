@@ -14,6 +14,7 @@
      Example: "Student reviews of CS professors at [university] — useful because official
      course descriptions don't reflect teaching style, exam difficulty, or workload." -->
 
+I will be focusing on resources and advice for commuter students at NYU. This knowledge is valuable and difficult to find because there are very few official resources available. Relevant information is scattered across different forums, discussion threads, and websites, making it time-consuming for students to locate the answers they need. This RAG system will consolidate these resources into a single searchable knowledge base, allowing students to quickly find relevant information without manually searching through numerous webpages and online discussions.
 ---
 
 ## Document Sources
@@ -22,18 +23,20 @@
      Be specific: include URLs, subreddit names, forum thread titles, or file names.
      Aim for variety — sources that together cover different subtopics or perspectives. -->
 
-| # | Source | Type | URL or file path |
-|---|--------|------|-----------------|
-| 1 | | | |
-| 2 | | | |
-| 3 | | | |
-| 4 | | | |
-| 5 | | | |
-| 6 | | | |
-| 7 | | | |
-| 8 | | | |
-| 9 | | | |
-| 10 | | | |
+
+| # | Source | Description | URL or location |
+|---|--------|-------------|-----------------|
+| 1 | Reddit | Incoming Freshman Commuter Post | [Reddit link](https://www.reddit.com/r/nyu/comments/wvd2mv/incoming_freshman_commuter_how_do_you_throw/)|
+| 2 | Reddit | Commuter Experience | [Reddit link](https://www.reddit.com/r/nyu/comments/19cjab1/commuters_how_is_your_college_experience/)|
+| 3 | Reddit |Commuter Dining Plan Post | [Reddit link](https://www.reddit.com/r/nyu/comments/1g4djm0/nyu_no_one_wants_your_rip_off_commuter_plan/)|
+| 4 | Reddit | Commuter Financial Aid Post | [Reddit link](https://www.reddit.com/r/nyu/comments/kibfsz/commuter_financial_aid/)|
+| 5 | Reddit | Commuter Advice Post | [Reddit link](https://www.reddit.com/r/nyu/comments/oq36pn/commuter_kids_what_do_you_not_leave_the_house/)|
+| 6 | School Newspaper | Commuting Effects on College Experience: Socially, Professionally, and Mentally| [Article link](https://nyunews.com/uta/features/2020/04/06/being-a-commuter-at-nyu/)|
+| 7 | School Newspaper | Off Campus Housing| [Article link](https://nyunews.com/underthearch/housing/2025/3/11/neighborhood-guide/)|
+| 8 | Student Blog| Transportation Experience| [Meet NYU Blog](https://meet.nyu.edu/advice/life-on-the-move-navigating-nyc-as-an-nyu-commuter-student/)|
+| 9 | University Page| NYU Neighborhood Resource Page| [NYU Neighborhood Resource Page](https://www.nyu.edu/students/student-information-and-resources/neighborhood-resources.html?challenge=d06e90d7-4d8f-4b88-9d8c-10b73beb60f1)|
+| 10 | University Page | NYU Commuter Resource Page | [NYU Commuter Resource Page](https://www.nyu.edu/students/communities-and-groups/commuters-off-campus-students/involvement.html?challenge=d06e90d7-4d8f-4b88-9d8c-10b73beb60f1)|
+
 
 ---
 
