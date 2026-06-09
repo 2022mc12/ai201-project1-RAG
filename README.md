@@ -62,7 +62,7 @@ Chunk size: I will split the document by paragraph first, since most of the redd
 Overlap: I will keep a overlap of 100 characters (this is roughly one sentence) in order to preserve the context of the chunks. Note that I will only do this if I am splitting a paragraph: if the entire paragraph fits in one chunk, no overlap is needed.
 
 **Final chunk count:**
-233
+290
 
 ---
 
@@ -75,8 +75,9 @@ Overlap: I will keep a overlap of 100 characters (this is roughly one sentence) 
      latency, and local vs. API-hosted. -->
 
 **Model used:**
-
+all-MiniLM-L6-v2
 **Production tradeoff reflection:**
+I will use all-MiniLM-L6-v2 via sentence-transformer because it is efficient and works well for my data chunks (short paragraphs).
 
 ---
 
@@ -161,9 +162,9 @@ Overlap: I will keep a overlap of 100 characters (this is roughly one sentence) 
 
 **Instance 1**
 
-- *What I gave the AI:*
-- *What it produced:*
-- *What I changed or overrode:*
+- *What I gave the AI:* I gave Claude my retrieval approach section and pipeline diagram from my planning doc and told it to generate the embedding step.
+- *What it produced:* It produced code to loading chunks from my ingestion pipeline, embedding with all-MiniLM-L6-v2, and store chunks in ChromaDB with source metadata.
+- *What I changed or overrode:* It used the sentence transformer library and I changed it so that it is using the built-in sentence transformer model in Chroma DB instead.
 
 **Instance 2**
 
